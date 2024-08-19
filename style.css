@@ -1,0 +1,42 @@
+header{
+    background-color:red;
+    text-align:center;
+    color:black;
+    padding:5px;
+    border:3px black outset;
+    margin:auto;
+}
+body{background-color:peach puff;}
+img{
+    height:200px;width:300px;
+}
+footer{
+    background-color:rgb(240, 4, 4);
+    text-align:center;
+    color:black;
+    padding:5px;
+    border:3px black outset;
+    margin:auto;
+}
+body{
+    background-color:white;
+    text-align:center;
+    color:black;
+    padding:5px;
+    border:10px solid black;
+    margin:auto;
+    border:black;
+}
+
+.content{
+    background-color:black;
+    text-align:center;
+    padding:auto;
+    color:black;
+    margin:75;
+    text-size-adjust:50px;
+}
+.end{
+    text-align:justify;
+    background-color:black
+}
